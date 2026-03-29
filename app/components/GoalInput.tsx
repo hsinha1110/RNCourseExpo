@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
     padding: 20,
-    backgroundColor: Colors.light.itemGoalBackground,
+    backgroundColor: "#200765",
   },
 
   image: {

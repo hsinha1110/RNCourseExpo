@@ -64,8 +64,14 @@ export default Index;
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    paddingTop: 60,
+    paddingTop: 80,
     paddingHorizontal: 20,
-    backgroundColor: Colors.light.itemGoalBackground,
+    backgroundColor: "#200765",
+  },
+
+  header: {
+    fontSize: 16,
+    color: "white",
+    textAlign: "center",
   },
 });
